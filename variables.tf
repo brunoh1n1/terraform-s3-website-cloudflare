@@ -13,7 +13,3 @@ variable "zone_id" {
 variable "aws_region" {
   description = "aws region"
 }
-
-variable "cloudflare_api_token" {
-  description = "aws region"
-}
